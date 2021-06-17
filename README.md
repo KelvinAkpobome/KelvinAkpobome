@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Kelvin
 
-<!--
-**KelvinAkpobome/KelvinAkpobome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a back end Web Developer and a Devops engineer 
+[Twitter: @KelvinAkpobome](https://www.twitter.com/KelvinAkpobome) | 
+[LinkedIn](https://www.linkedin.com/in/KelvinAkpobome) | 
+[Blog](https://www.kelvinakpobome.codes)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Things I am currently working on: 
+- Cloud computing
+- Back end projects with JavaScript, Node 
+- Multi tier web application
+
+#### 🛠️ Languages and Tools:
+These are the ones I work/have worked with. However I am open to learning new technologies as needed.
+- Node.js, Express, PHP, Laravel
+- MongoDB, MySQL, PostgreSQL
+- Web servers, Nginx and Apache tomcat
+- Terraform
+- Ansible 
+ 
