@@ -10,8 +10,9 @@ You can reach me on
 
 #### 🌱 Things I am currently working on: 
 - Cloud computing
-- Back end projects with JavaScript, Node 
+- Back end projects with Node 
 - Multi tier web application
+- Open source contributions
 
 #### 🛠️ Languages and Tools:
 These are the ones I work/have worked with. However I am open to learning new technologies as needed.
