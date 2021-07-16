@@ -13,6 +13,7 @@ You can reach me on
 - Back end projects with Node 
 - Multi tier web application
 - Open source contributions
+- Container orchestration
 
 #### 🛠️ Languages and Tools:
 These are the ones I work/have worked with. However I am open to learning new technologies as needed.
@@ -21,4 +22,7 @@ These are the ones I work/have worked with. However I am open to learning new te
 - Web servers, Nginx and Apache tomcat
 - Terraform
 - Ansible 
- 
+- Test frameworks like Mocha
+- Container technologies like Docker
+- Assertion libraries
+- CI/CD tools, Jenkins, Travis CI and Github actions
