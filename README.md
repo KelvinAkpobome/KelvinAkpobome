@@ -26,3 +26,6 @@ These are the ones I work/have worked with. However I am open to learning new te
 - Container technologies like Docker
 - Assertion libraries
 - CI/CD tools, Jenkins, Travis CI and Github actions
+
+
+Please see my projects listed below 👇👇👇
