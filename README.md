@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kelvin
 
-I am a back end Web Developer, a kubernetes administrator and a Devops engineer
+I am a back end Web Developer and Devops engineer
 
 You can reach me on
 [Twitter: @KelvinAkpobome](https://www.twitter.com/KelvinAkpobome) | 
