@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kelvin
 
-I am a back end Web Developer and Devops engineer
+I am a back end Web Developer, Mechanical engineering graduate and Devops engineer
 
 You can reach me on
 [Twitter: @KelvinAkpobome](https://www.twitter.com/KelvinAkpobome) | 
