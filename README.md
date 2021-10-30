@@ -5,7 +5,7 @@ I am a Software Developer, Mechanical engineering graduate and Devops engineer
 You can reach me on
 [Twitter: @KelvinAkpobome](https://www.twitter.com/KelvinAkpobome) | 
 [LinkedIn](https://www.linkedin.com/in/KelvinAkpobome) | 
-[Blog](https://www.kelvinakpobome.codes)
+[Blog](https://blog.kelvinakpobome.codes)
 
 
 #### 🌱 Things I am currently working on: 
