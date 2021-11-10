@@ -17,7 +17,7 @@ You can reach me on
 
 #### 🛠️ Languages and Tools:
 These are the ones I work/have worked with. However I am open to learning new technologies as needed.
-- Node.js, Express, PHP, Laravel
+- Node.js, Express
 - MongoDB, MySQL, PostgreSQL
 - Web servers, Nginx and Apache tomcat
 - Terraform
