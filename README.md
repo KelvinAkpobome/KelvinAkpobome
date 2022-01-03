@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kelvin
 
-I am a Software Developer, Mechanical engineering graduate and Devops engineer
+I am a Software Developer, Mechanical engineering graduate, LF certified Kubernetes Admin and Devops engineer
 
 You can reach me on
 [Twitter: @KelvinAkpobome](https://www.twitter.com/KelvinAkpobome) | 
