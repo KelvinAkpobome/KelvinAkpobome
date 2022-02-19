@@ -10,7 +10,7 @@ You can reach me on
 
 #### 🌱 Things I am currently working on: 
 - Cloud computing
-- Back end projects with Node 
+- Back end projects with Node and Golang
 - Multi tier web application
 - Open source contributions
 - Container orchestration
