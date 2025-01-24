@@ -5,7 +5,7 @@ I am a Software Developer, Mechanical engineering graduate, LF certified Kuberne
 You can reach me on
 [Twitter: @KelvinAkpobome](https://www.twitter.com/KelvinAkpobome) | 
 [LinkedIn](https://www.linkedin.com/in/KelvinAkpobome) | 
-[Blog](https://blog.kelvinakpobome.codes)
+[Blog](https://kelvinakpobome.hashnode.dev)
 
 
 #### 🌱 Things I am currently working on: 
@@ -17,15 +17,13 @@ You can reach me on
 
 #### 🛠️ Languages and Tools:
 These are the ones I work/have worked with. However I am open to learning new technologies as needed.
-- Node.js, Express
+- Node.js, Express, Golang
 - MongoDB, MySQL, PostgreSQL
 - Web servers, Nginx and Apache tomcat
-- Terraform
-- Ansible 
 - Test frameworks like Mocha
 - Container technologies like Docker
 - Assertion libraries
-- CI/CD tools, Jenkins, Travis CI and Github actions
+- CI/CD tools,
 
 
 Please see my projects listed below 👇👇👇
